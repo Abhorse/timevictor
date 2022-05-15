@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "459851827238",
+    "firebase_url": "https://timemarks-timevictor.firebaseio.com",
+    "project_id": "timemarks-timevictor",
+    "storage_bucket": "timemarks-timevictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459851827238:android:e2f6a442e91ea935d6fee7",
+        "android_client_info": {
+          "package_name": "com.timevictor.timevictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459851827238-ig5n914dif25bvevcdi0iq3rd3ac9um3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timevictor.timevictor",
+            "certificate_hash": "f3711dc36f0f3595cb28ad373629ce5bdaf52c71"
+          }
+        },
+        {
+          "client_id": "459851827238-v15404rqaf2o25cv84v4acam3ho3gt27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timevictor.timevictor",
+            "certificate_hash": "a9d855d1abad0d01325b042e041317fb4bd0f159"
+          }
+        },
+        {
+          "client_id": "459851827238-sf4d1f02d7l6429cp495m7hvhgo1vjop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAaKTmwg8VpMFzx6aDpPj94iiW8iWLWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459851827238-sf4d1f02d7l6429cp495m7hvhgo1vjop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459851827238-0oshpmbjc7g3i84mhceq12dq135at6mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.timeVictor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
